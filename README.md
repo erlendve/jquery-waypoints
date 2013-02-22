@@ -1,0 +1,1 @@
+latest jQuery-waypoints packaged for meteor
